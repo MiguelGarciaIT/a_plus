@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/2dkLYn9.png" height="30%" width="30%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/xGdQNhM.png" height="65%" width="65%" alt="Disk Sanitization Steps"/> 
 
 [Verification Link](https://www.credly.com/badges/992f2a01-bfa2-4e01-a23a-9d8579620040/public_url)
 </p>
